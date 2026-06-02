@@ -39,6 +39,6 @@ indonesia_ev_station_crud_project/
 ├── data/
 │   └── indonesia_ev_station.parquet  # Remote binary Parquet dataset
 │
-├── ev_station.py                      # Main Application Execution Script
+├── indonesia_ev_station.py           # Main Application Execution Script
 ├── requirements.txt                  # Application Dependencies
 └── README.md                         # Project Documentation
