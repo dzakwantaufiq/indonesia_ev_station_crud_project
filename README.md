@@ -1,4 +1,4 @@
-# Indonesia EV Station Project
+# ⚡ Indonesia EV Station Directory (CRUD & Geospatial Router)
 
 A terminal-based Python application that serves as a directory for Electric Vehicle (EV) Charging Stations across Indonesia. This project implements full CRUD (Create, Read, Update, Delete) functionality backed by geospatial analytics to discover, update, and generate driving routes to nearby charging stations.
 
