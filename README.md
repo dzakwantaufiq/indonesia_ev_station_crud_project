@@ -34,7 +34,7 @@ A terminal-based Python application that serves as a directory for Electric Vehi
 ## 📁 Repository Structure
 
 ```text
-indonesia_ev_station_crud_project/
+indonesia_ev_station_project/
 │
 ├── data/
 │   └── indonesia_ev_station.parquet  # Remote binary Parquet dataset
