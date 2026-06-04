@@ -31,6 +31,9 @@ A terminal-based Python application that serves as a directory for Electric Vehi
 
 ---
 
+The explanation video can be watched here!: https://drive.google.com/file/d/104Ev95gLJeR3hYsg-vicHRmJunAG7IIf/view?usp=sharing
+
+---
 ## 📁 Repository Structure
 
 ```text
